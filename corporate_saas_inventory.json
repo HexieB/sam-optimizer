@@ -1,0 +1,39 @@
+[
+    {
+        "app_name": "Slack",
+        "total_licensed_seats": 500,
+        "cost_per_seat_monthly": 15.00,
+        "contract_renewal_date": "2027-02-01",
+        "monitored_users": [
+            {
+                "user_id": "emp_012",
+                "email": "sarah.jones@enterprise.com",
+                "last_active_days_ago": 72,
+                "account_status": "ACTIVE",
+                "hr_status": "TERMINATED"
+            },
+            {
+                "user_id": "emp_104",
+                "email": "dave.smith@enterprise.com",
+                "last_active_days_ago": 94,
+                "account_status": "ACTIVE",
+                "hr_status": "ACTIVE"
+            }
+        ]
+    },
+    {
+        "app_name": "GitHub Enterprise",
+        "total_licensed_seats": 250,
+        "cost_per_seat_monthly": 21.00,
+        "contract_renewal_date": "2026-12-15",
+        "monitored_users": [
+            {
+                "user_id": "emp_012",
+                "email": "sarah.jones@enterprise.com",
+                "last_active_days_ago": 72,
+                "account_status": "ACTIVE",
+                "hr_status": "TERMINATED"
+            }
+        ]
+    }
+]
